@@ -1,0 +1,13 @@
+<Students>
+    <student>
+        <name>Ivan</name>
+        <surname>Lanin</surname>
+        <group>241</group>
+        <faculty>KNiIT</faculty>
+    </student>
+    <student>
+        <name>Alina</name>
+        <surname>Chernicova</surname>
+        <group>242</group>
+    </student>
+</Students>

@@ -1,0 +1,21 @@
+{
+  "Students": [
+    {
+      "name": "Egor",
+      "surname": "Semenov",
+      "group" : "241",
+      "university": "SGU",
+      "faculty" : "KNiIT"
+    },
+    {
+      "name": "Ivan",
+      "surname": "Martishin",
+      "group": "242"
+    },
+    {
+      "name": "Anna",
+      "group": "242",
+      "faculty" : "MehMat"
+    }
+  ]
+}
